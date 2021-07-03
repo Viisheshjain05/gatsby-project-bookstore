@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gatsby-firebase-connect-learn",
+  "private_key_id": "cd3e15cf45b4ef03a00e4f0766438c799abb7751",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVHPoEa+Ejg5kJ\nwRwvIbANKdBiQJikUVmnZNgpFlVjIzZ0soCcSO5Gl6sEXaqNpgLEeGa+uG/d8P5x\n1IO8DzdH9fkK1Zcl0YzX+YnWOJEOXHONTEXAlhrIiNa71GXSXlqIfLyi4I9Xj6Qe\nEDUejX38M2usKUqlNYhLg6KS+dcqCesW7Cc5fFBVabCI6rAcVWM11YA3qLvsxPBf\nsxxBa/Iw47VOkHqyVVo3QF0gfInptjXauY/Wlh1svrKUxixK82gWHL+kvl+iDl4x\n259JKyvzt4CC8mlV0CJCeVKB8wlupIhPZVhBp2WVuxFJ3qBVYyUSxtnozp/wUDJo\nMCDyDqfRAgMBAAECggEABqh2mS/Do2fnnpnlZwWO6gJd68vn2O5fti6c4D+94DCH\n8YJoKTnQE+2GHsdMXkuK95dpYlkBybXPRUAl83ioOfvR0YhVxg0zcMXvi/1Nbtzt\nkUMKRNeLs6suxkR+/+EJxAzdmdsZL1uh/Xx1JGS4RGpY2VKa7elrviw5Jo1erwX8\nqWepKq1QU3adwHSU/akkw9SmknsH6IVgm7SJfhvyNVd+BdpX6yGI50LolgqR8Oye\nbfPvSdv4H0ZzQb0SslhpRb6dVOlHiIKULCsZ09Vj1JeYgLtmHw4BVOySv+dtb5y2\n3F+zOJclX20Tltvfv+ekrL2iiam5cANWLgl7LvCvpwKBgQD9IlE0qdWqjGZJHBC4\njPAhMmo7kWlmGl4rgwM9U6+/SX1qI4hIozPNx1CXrmFMRiJhS7G6wsOGDQGSkVhn\nzEfXTyPSpKbFkwDbCgS4I73gDCtldMp/FuSvw2gTGVlvmTJDPqio4ojV5cGUUN5q\nc13oDE4Tzfy4E6PdyvLYv2dp0wKBgQDXhqnBMcFnXD50O1wxaz6x+z105Q/2ascm\nwClwMiJvIfOIU88FzS7sLHGScIYk4jXTXKkHbY/zzbGuRkdkK0Lmd1eQeXuiFkph\nHc2GsX8XxNxNBsqZG1UsvPgoR+HjeMerRE31ajOCLNLqEeLwlMPWY8Sx8AbX9BUE\n/E4SMctdSwKBgE80H6iUw3A7wf16NJkqMDCS7753vzzdXz3KHodf2gvGWOGPAKOJ\nvTnT9ZmgTH1rLHK5FoFTU45sH2PW6ox/1LK/5nuQXUZQuuHOfq+HL3AdHq7+HiYp\n6aA9SiE/u0Y57wovXuKJDzuuSiW4L/+q3WUwBHYZ68tFCe7qA5ZiPV9VAoGAX7O3\nO0dJtwjZ3qjhJjyV6VhDkN2J+gSuDAH2JJDOg4SS7C0y10OmG08c20bF+ijMd99E\nWz0GV981j8o7NzqSiV3i7w9Sm8XEH12pfq7gXYCXxkhGvDfL2YLLuq84mdZu6xj4\neQpAdwRKX4+zstqMH23L0KthjpEeqEkUrbWYtQMCgYA37yi4BG07QI1aEVTdiUeR\nNOeS9n1guGyTWuT9s5n7YC/QlByzOGaRrI23TVq0dwX8VQfeiYW8VPNe672UhEAv\nRg1ScZwRkfxAMoSLGb8p4S7wZiss1APKNNQ84XJeDGn/FLCfaL04qHQ1PVS5dVhm\nRMquUn4LKILQl0USGxF5dQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-bhrof@gatsby-firebase-connect-learn.iam.gserviceaccount.com",
+  "client_id": "107939009618669663370",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bhrof%40gatsby-firebase-connect-learn.iam.gserviceaccount.com"
+}

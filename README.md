@@ -103,3 +103,24 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+# Package json Removed Dependencies
+
+1. Just Add and install
+
+   "gatsby-plugin-gatsby-cloud": "^2.6.1",
+   "gatsby-plugin-image": "^1.6.0",
+   "gatsby-plugin-manifest": "^3.6.0",
+   "gatsby-plugin-offline": "^4.6.0",
+   "gatsby-plugin-react-helmet": "^4.8.0",
+   "gatsby-plugin-sass": "^4.8.0",
+   "gatsby-plugin-sharp": "^3.6.0",
+   "gatsby-plugin-sitemap": "^4.4.0",
+   "gatsby-plugin-styled-components": "^4.8.0",
+   "gatsby-source-filesystem": "^3.8.0",
+   "gatsby-transformer-sharp": "^3.6.0",
+   "prop-types": "^15.7.2",
+   "react-helmet": "^6.1.0",
+   "sass": "^1.35.1",
+   "babel-plugin-styled-components": "^1.13.1",
+   "styled-components": "^5.3.0"
